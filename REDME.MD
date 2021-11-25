@@ -10,4 +10,4 @@
 > git clone https://github.com/Terdsak44/4132202-2-64-SEC02.git
 
 ** link **
-[LAB1] https://github.com/Terdsak44/4132202-2-64-SEC02/tree/master/LAB1
+[LAB1] (https://github.com/Terdsak44/4132202-2-64-SEC02/tree/master/LAB1)
